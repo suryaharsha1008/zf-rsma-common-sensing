@@ -4,6 +4,7 @@ MATLAB code that reproduces the numerical results of
 
 > Surya Harsha and Shankar Prakriya, "Feasibility of Common-Stream-Only Sensing in ZF-RSMA with Imperfect CSIT,"
 > accepted in *IEEE Global Communications Conference (GLOBECOM)*, 2026.
+> [arXiv:2610.41744](https://arxiv.org/abs/2610.41744)
 
 ## Problem
 A multi-antenna base station serves K single-antenna users with downlink rate-splitting multiple access (RSMA) and
@@ -50,6 +51,7 @@ fig5_detection_matched_vs_fixed
   author    = {Surya Harsha and Shankar Prakriya},
   title     = {Feasibility of Common-Stream-Only Sensing in {ZF-RSMA} with Imperfect {CSIT}},
   booktitle = {Proc. IEEE Global Communications Conference (GLOBECOM)},
-  year      = {2026}
+  year      = {2026},
+  note      = {arXiv:2610.41744}
 }
 ```
